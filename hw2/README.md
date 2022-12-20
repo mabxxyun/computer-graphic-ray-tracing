@@ -1,6 +1,9 @@
 # Ray Tracing Practice
+
 This project is a ray tracing practice.
+
 With the information in input file, output an ppm file to simulate ray tracing.
+
 
 ## Input
 
@@ -9,6 +12,7 @@ With the information in input file, output an ppm file to simulate ray tracing.
 **hw2_input.txt**
 
 Input File Contain Information
+
 * Camera information
 * Light position
 * Object information
