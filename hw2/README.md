@@ -16,8 +16,8 @@ Input File Contain Information
 ## Output
 
 * HW2.ppm
+
 * HW2.jpg
   * Transfer .ppm file to .jpg
 
-
-
+![HW2](https://user-images.githubusercontent.com/47785408/208734914-49cc538f-2f56-4308-af3e-75d95a92fda2.jpg)
