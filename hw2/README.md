@@ -2,7 +2,7 @@
 
 This project is a ray tracing practice.
 
-With the information in input file, output an ppm file to simulate ray tracing.
+With the information in ```.txt``` input file, output an ```.ppm``` file to simulate ray tracing.
 
 
 ## Input
