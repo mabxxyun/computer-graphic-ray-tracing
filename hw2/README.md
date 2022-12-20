@@ -7,6 +7,7 @@ With the information in input file, output an ppm file to simulate ray tracing.
 * hw2_input.txt
 
 **hw2_input.txt**
+
 Input File Contain Information
 * Camera information
 * Light position
