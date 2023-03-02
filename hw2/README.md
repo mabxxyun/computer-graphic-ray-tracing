@@ -8,14 +8,10 @@ With the information in ```.txt``` input file, output an ```.ppm``` file to simu
 ## Input
 
 * hw2_input.txt
-
-**hw2_input.txt**
-
-Input File Contain Information
-
-* Camera information
-* Light position
-* Object information
+  * Contained information
+    * Camera information
+    * Light position
+    * Object information
 
 ## Output
 
